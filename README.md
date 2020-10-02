@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I believe in Jesus Christ as the only way to eternal life.
 
 
-###Useful links
+### Useful links
 
 * [GitHub](https://github.com/EmmanuelTheCoder)
 * [Twitter](https://twitter.com/EmmanuelCoder)
