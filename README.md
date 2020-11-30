@@ -4,7 +4,6 @@
 
 
 - 🔭 I’m currently working on: Something that solve problems
-- 🌱 I’m currently learning: Golang. I recently fell in love with Go 😍.
 - 👯 I’m looking to collaborate on: Any interesting project.
 - 💬 Ask me about: Front-end development, software development, web development, open source, and the Bible 😀,
 - 📫 How to reach me: DM [@EmmanuelCoder](https://twitter.com/EmmanuelCoder) or [mail me](loyaltysamuel001@gmail.com)
