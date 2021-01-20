@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: Something that solve problems
 - 👯 I’m looking to collaborate on: Any interesting project.
-- 💬 Ask me about: Front-end development, software development, web development, open source, and the Bible 😀,
+- 💬 Ask me about: Front-end development, JavaScript/React/Redux and open source.
 - 📫 How to reach me: DM [@EmmanuelCoder](https://twitter.com/EmmanuelCoder) or [mail me](loyaltysamuel001@gmail.com)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I believe in Jesus Christ as the only way to eternal life.
