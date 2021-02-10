@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm a meticulous front-end developer, creative, design-driven and an enthusiastic team player. I love to learn new things.**
+**I'm a front-end developer, creative, design-driven and a passionate team player. I love to learn new things.**
 
 
 - 🔭 I’m currently working on: Something that solve problems
