@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-**I'm a software developer, creative, design-driven and a passionate team player. I'm fascinated by De-Fi and actively advocating for the adoption of Bitcoin as the internet's currency.**
+**I'm a Developer Advocate & software Engineer, creative and energetic team player. I'm passionate about Open Source Software(OSS), Community building and Developer education.**
 
 
 - 🔭 I’m currently working on: Something that solve problems
 - 👯 I’m looking to collaborate on: Any interesting project.
-- 💬 Ask me about: Software development,Bitcoin, Cryptocurrency, JavaScript/React/Redux and open source.
+- 💬 Ask me about: Developer relations, Software development, Typescript, JavaScript, React, Redux and Open Source Software.
 - 📫 How to reach me: DM [@EmmanuelCoder](https://twitter.com/EmmanuelCoder) or [mail me](loyaltysamuel001@gmail.com)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I believe in Jesus Christ as the only way to eternal life.
